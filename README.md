@@ -4,7 +4,7 @@
 - 💞️ I’m Constanly learing and keep myself updated in latest technology AI.
 - 👓  Ask me anything about Data Science, I'm happy to help
 - 📫 my email_id is ashishgarg052@gmail.com
-- 📜 see my resume to get more info.
+- 📜 see my https://app.flowcv.io/resume/content to get more info.
 
 
 <!---
